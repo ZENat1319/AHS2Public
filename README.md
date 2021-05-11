@@ -1,3 +1,5 @@
+#自己責任
+
 # AutoHealthSurvey2Public
 Formsを勝手に提出してくれるやつ(一部環境限定版)  
 Original Repo->https://github.com/siketyan/AutoHealthSurvey  
